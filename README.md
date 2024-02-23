@@ -1,0 +1,5 @@
+Serial Execution: The test suite for the 365Scores website, comprising tests for checking dark mode, language localization, search functionality, and overall page navigation, was successfully executed in a serial manner. Each test was run sequentially, ensuring thorough validation of the website's features and functionality.
+
+Parallel Execution: Leveraging concurrent execution capabilities, the test suite for the 365Scores website was also executed in parallel, enabling simultaneous testing across multiple browser types. This parallel execution approach significantly reduced test execution time while maintaining robust validation across different browser environments.
+
+Validation: In both serial and parallel modes, the tests verified critical aspects of the website, including the toggling of dark mode, language localization changes, efficient search functionality, and overall page rendering. The successful execution of these tests underscores the reliability and effectiveness of the automated testing framework in ensuring the quality and functionality of the 365Scores website across various scenarios and environments.
